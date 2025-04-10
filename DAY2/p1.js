@@ -1,0 +1,5 @@
+// const {sum,mul,div}=require('./Mymath')
+const obj=require('./Mymath')
+console.log(obj.sum(2,5))
+console.log(obj.mul(5,3))
+console.log(obj.div(12,4))
